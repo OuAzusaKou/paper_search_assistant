@@ -1,0 +1,6 @@
+Flask==2.3.2
+arxiv==1.4.7
+flask-cors==4.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+gunicorn==20.1.0
